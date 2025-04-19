@@ -1,0 +1,4 @@
+../Src/main.c:141:5:main	2
+../Src/main.c:161:6:pa1_adc_init	1
+../Src/main.c:184:6:start_converstion	1
+../Src/main.c:191:10:adc_read	2
