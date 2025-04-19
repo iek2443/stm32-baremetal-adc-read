@@ -46,8 +46,6 @@ If you haven’t completed the previous lesson where we implemented USART-based 
 - STM32F4 Discovery Board
 - Analog sensor or potentiometer connected to PA1
 - ARM GCC Toolchain
-- ST-Link programmer
-- (Optional) Serial output for displaying result
 
 ---
 
